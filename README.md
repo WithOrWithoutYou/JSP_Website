@@ -48,5 +48,3 @@ U CAN DO IT! 사이트는.. 여러 사람들이 모여 공부, 운동, 일상을
 ![Board](https://user-images.githubusercontent.com/68497879/121641330-028e0b00-caca-11eb-99fa-19a453757227.jpg)
 
 
-
-
